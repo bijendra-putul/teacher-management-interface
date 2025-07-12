@@ -36,3 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 ## URL Loom Video
+https://www.loom.com/share/ffbd1dec9adb4583abf6a44d590277f4
